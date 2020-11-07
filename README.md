@@ -1,4 +1,4 @@
-This is the source code for [MathQuiz!](https://mathquiz.tk/), the web port of my first Android app, which I created during 7th grade. It's written entirely using Javascript and HTML, uses Google's [Material Components for the Web](https://material.io/develop/web) framework for styling, and is hosted on a global Google CDN using Firebase.
+This is the source code for [MathQuiz!](https://mathquiz.tk/), the web port of my first Android app, which I created during 7th grade. It's written entirely using Javascript and HTML, uses Google's [Material Components for the Web](https://material.io/develop/web) framework for styling, and is hosted on a global Google CDN using Firebase Hosting.
 
 # Features
 - Asks the user questions about math questions, configurable between Addition, Integer Subtraction, Subtraction (with only positive numbers and results), and Multiplication
