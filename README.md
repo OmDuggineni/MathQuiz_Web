@@ -10,4 +10,4 @@ This is the source code for [MathQuiz!](https://mathquiz.tk/), the web port of m
 - Is a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Developer_guide/Installing) and therefore can be installed from the browser on Android, iOS, Windows, MacOS, or any desktop Linux distribution using either Chrome, Firefox (Android only), Microsoft Edge, Safari (using "Add to Home Screen" on iOS only), Opera Mobile, UC Browser, or Samsung Internet.
 
 # License
-This web app is free software, released under the terms of the GNU General Public License, version 3. See the file LICENSE.md for more info.
+This web app is free software, released under the terms of the GNU General Public License v3.0. See the file LICENSE for more info.
