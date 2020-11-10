@@ -1,4 +1,4 @@
-This is the source code for [MathQuiz!](https://mathquiz.tk/), the web port of my first Android app, which I created during 7th grade. It's written entirely using Javascript and HTML, uses Google's [Material Components for the Web](https://material.io/develop/web) framework for styling, and is hosted on a global Google CDN using Firebase Hosting (will be using GitHub Pages soon).
+This is the source code for [MathQuiz!](https://mathquiz.tk/), the web port of my first Android app, which I created during 7th grade. It's written entirely using Javascript and HTML, uses Google's [Material Components for the Web](https://material.io/develop/web) framework for styling, and is hosted on GitHub Pages.
 
 **NOTE:** This app uses Google Analytics to track the number of site visitors, but doesn't show any ads, keep any data, etc. If you want to fork this project, make sure to remove all Google Analytics code or replace it with your own. If you want to opt out of Google Analytics-based tracking, use the Google Analytics [opt-out extension](https://tools.google.com/dlpage/gaoptout) by Google.
 
